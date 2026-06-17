@@ -1,0 +1,13 @@
+// Q6
+
+let num = -5;
+
+if (num > 0) {
+    document.write("Positive");
+}
+else if (num < 0) {
+    document.write("Negative");
+}
+else {
+    document.write("Zero");
+}
